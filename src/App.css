@@ -1,0 +1,5 @@
+.bgimage {
+  background-image: url("./assets/backgroundimage.avif");
+
+  background-size: contain;
+}
